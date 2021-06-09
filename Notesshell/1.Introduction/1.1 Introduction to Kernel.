@@ -1,5 +1,5 @@
   
-                    1.1 INTRODUCTION TO KERNEL.  
+                    1.1 INTRODUCTION TO KERNEL.  changes added
 
     Kernal is the heart of Linux O/S. It manages resource of Linux O/S. Resources means facilities available in Linux.
     For Ex.Facility to store data, print data on printer,memory,filemanagement etc.
