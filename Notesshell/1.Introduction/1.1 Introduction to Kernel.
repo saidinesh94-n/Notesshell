@@ -1,0 +1,16 @@
+  
+                    1.1 INTRODUCTION TO KERNEL.  
+
+    Kernal is the heart of Linux O/S. It manages resource of Linux O/S. Resources means facilities available in Linux.
+    For Ex.Facility to store data, print data on printer,memory,filemanagement etc.
+    Kernel decides who will use this resource, for how long and when.
+    it runs your programs(or set up execute binary files) it's Memory resident portion of liux.
+    It performance following tasks.
+
+ > I/O management
+ > Process management
+ > Device management
+ > File management
+ > Memory management
+
+

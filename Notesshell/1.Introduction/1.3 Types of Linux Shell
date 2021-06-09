@@ -1,0 +1,11 @@
+  Shell is not part of system kernal, but uses the system kernal to execute programs, create files etc.
+
+  Several shell available with linux.
+  
+
+  > BASH  - Bourne-Again Shell.
+  > CSH   - C Shell
+  > KSH   - Korn Shell
+  > TCSH  - Advanced Version of C Shell.
+
+

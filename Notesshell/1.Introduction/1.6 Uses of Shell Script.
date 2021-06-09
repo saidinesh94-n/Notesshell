@@ -1,0 +1,17 @@
+
+
+                  1.6 USES OF SHELL SCRIPT ?
+ 
+  > Combines lengthy and repetitve sequences of commands into a single, simple command.
+  > Generalize a sequence of operations on set of data, into a procedure that can be applied to any
+    similar set of data.
+  > Create new commands using combinations of utilities in ways the original authors never thought of.
+  > Simple shell scripts might be written as shell aliases,but the scripr can be made available to all users and all processes.
+    Shell aliases apply only to the current Shell.
+  > Create customized datasets on the fly, and call applications.
+
+
+
+
+
+
