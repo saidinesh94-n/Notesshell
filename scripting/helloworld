@@ -1,0 +1,20 @@
+     							        #SCRIPTING
+          # 1 Write a shell script to print helloworld?
+#!/bin/bash
+echo "HelloWorld"
+
+          # 2 Write a shell script to take two arguments to print helloworld?
+echo $1 $2
+ 
+          # 3 Read a number in shell script?
+          # Ans :- In shell script we can read number by using (READ) keyword.
+echo "Enter Your age"
+read num
+echo "Age=$num"
+ 	  # 4 Read a name in shell script?
+ 	  # Ans:- In shell script we can read name by usig (READ) keyword.
+ 	 
+echo "Enter your name"
+read name
+echo "Name=$name"
+
